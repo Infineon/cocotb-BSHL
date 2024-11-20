@@ -1,0 +1,8 @@
+*.log
+sim_build/
+cov_work/
+.simvision/
+__pycache__/
+*.ucd
+*.ucm
+
